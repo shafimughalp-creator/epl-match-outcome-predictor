@@ -1,0 +1,18 @@
+# Theme tokens for the native Streamlit widgets (select boxes, calendar popup, etc.)
+# The custom CSS in app.py handles everything else.
+[theme]
+base = "dark"
+primaryColor = "#00ff87"              # Premier League green
+backgroundColor = "#0a0e27"           # deep navy-black
+secondaryBackgroundColor = "#151b3d"  # panel colour
+textColor = "#ffffff"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
