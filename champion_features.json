@@ -1,0 +1,20 @@
+{
+  "features": [
+    "delta_elo",
+    "delta_form_pts_last5",
+    "delta_form_gd_last5",
+    "delta_venue_pts_last5",
+    "delta_season_ppg",
+    "delta_prev_season_ppg",
+    "delta_form_shots_last5",
+    "delta_form_sot_last5",
+    "delta_rest_days"
+  ],
+  "n_features": 9,
+  "target_map": {
+    "A": 0,
+    "D": 1,
+    "H": 2
+  },
+  "created": "2026-10-08T13:52:26Z"
+}
